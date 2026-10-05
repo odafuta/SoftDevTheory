@@ -34,8 +34,8 @@ This is not a general list of Japanese dishes. A classmate already posted "TOP 1
    Oatmeal microwaved with milk, topped with banana and protein powder.
 9. 無糖ヨーグルトにバナナとプロテインを混ぜる
    Unsweetened yogurt mixed with banana and protein powder.
-10. Open — please add one item by pull request.
-    クラスメイトからの1品。useful、clear、かつ 1–9 と重複しないものを1つ。
+10. 目玉焼き丼（ご飯に目玉焼きをのせ、醤油とごま油をかける）
+    Fried egg on hot rice with a dash of soy sauce and sesame oil - super quick, cheap and cozy comfort food !
 
 # How to contribute
 
